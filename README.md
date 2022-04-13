@@ -1,2 +1,2 @@
-# efficient-triangle-counting
-Efficient implementation of Node Iterator method of Triangle counting
+# triangle-counting-lockfree
+Implementation of traingle counting that is lockfree and failure-safe.
